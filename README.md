@@ -4,7 +4,7 @@
 
 -💻 Tecnica em desenvolvimento de sistemas(em andamento)<br>
 -🌱 Estudando atualmente JS
--
+-CONSTRUÇÃO DE PERFIL EM ANDAMENTO 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
