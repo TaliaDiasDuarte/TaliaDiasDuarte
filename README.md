@@ -3,7 +3,7 @@
 
 
 -💻 Tecnica em desenvolvimento de sistemas(em andamento)<br>
--🌱 Estudando atualmente JS
+-🌱 Estudando atualmente JS<br>
 -CONSTRUÇÃO DE PERFIL EM ANDAMENTO 
 
 
